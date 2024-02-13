@@ -1,4 +1,6 @@
-### Iain Quayle
+### Hi, I'm Iain Quayle
+
+I love taking on challenging algorithmic projects and learning new technologies.
 
 <!--
 - 🔭 I’m currently working on ...
