@@ -1,7 +1,5 @@
 ### Hi, I'm Iain Quayle
 
-I craft beautiful solutions to complex problems.
-
 Currently working on neural network architecture optimzation, and a new general purpose language.
 
 Feel free to drop a line on [LinkedIn](https://www.linkedin.com/in/iain-quayle-70017b277)
