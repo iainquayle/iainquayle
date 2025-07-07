@@ -1,6 +1,6 @@
 ### Hi, I'm Iain Quayle
 
-Currently working on a new general purpose functional language, and playing with under explored neural net structures and training paradigms.
+Currently working on a new general purpose functional language, and playing with under-explored neural net structures and training paradigms.
 
 Feel free to drop a line on [LinkedIn](https://www.linkedin.com/in/iain-quayle-70017b277)
 
